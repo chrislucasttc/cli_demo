@@ -1,5 +1,5 @@
 This is really cool readme file
-No it isn't
+Yes it is
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
