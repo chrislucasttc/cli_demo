@@ -14,6 +14,7 @@ pnpm dev
 # or
 bun dev
 ```
+This is the addition that we spoke about!!!!!
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
